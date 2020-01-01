@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
+  display: flex;
+
   a {
     color: #6d6d6d;
     text-decoration: none;

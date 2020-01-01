@@ -11,7 +11,7 @@ export const Intro = () => (
       <Details>
         <h1>
           <span style={{ display: 'none' }}>Wassup - </span>
-          Save your memories &amp; emotions
+          Keep your memories &amp; emotions together
         </h1>
         <Lead>
           A privacy-first open-source personal assistant to help keep your personal memories and emotions together.

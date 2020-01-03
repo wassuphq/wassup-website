@@ -54,11 +54,11 @@ const MailListForm = () => (
             name="EMAIL"
             className="email"
             id="mce-EMAIL"
-            placeholder="Your Email Address"
+            placeholder="Enter your email"
             required
           />
           <div style={{ position: 'absolute', left: -5000 }} aria-hidden="true">
-            <input type="text" name="b_54d104fa8627a2687dcea0f90_c62b9bee1a" tabIndex={-1} value="" />
+            <input type="text" name="b_54d104fa8627a2687dcea0f90_c62b9bee1a" tabIndex={-1} defaultValue="" />
           </div>
           <div className="clear">
             <Button
